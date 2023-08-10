@@ -1,0 +1,63 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/oesophageal-varices-operation---primary.py
+inputModule3:
+  class: File
+  path: python/oesophageal-varices-ligation---primary.py
+inputModule4:
+  class: File
+  path: python/oesophageal-varices-sclerotherapy---primary.py
+inputModule5:
+  class: File
+  path: python/oesophageal-varices-bleeding---primary.py
+inputModule6:
+  class: File
+  path: python/oesophagoscopic-oesophageal-varices---primary.py
+inputModule7:
+  class: File
+  path: python/oesophageal-varices-banding---primary.py
+inputModule8:
+  class: File
+  path: python/varices---primary.py
+inputModule9:
+  class: File
+  path: python/oesophageal-varices-liver---primary.py
+inputModule10:
+  class: File
+  path: python/oesophageal-varices---primary.py
+inputModule11:
+  class: File
+  path: python/oesophageal-varices-procedure---primary.py
+inputModule12:
+  class: File
+  path: python/varices---secondary.py
+inputModule13:
+  class: File
+  path: python/oesophageal-varices-classified---secondary.py
+inputModule14:
+  class: File
+  path: python/oesophageal-varices-operation---secondary.py
+inputModule15:
+  class: File
+  path: python/oesophageal-varices---secondary.py
+inputModule16:
+  class: File
+  path: python/oesophageal-varices-transection---secondary.py
+inputModule17:
+  class: File
+  path: python/oesophageal-varices-ligation---secondary.py
+inputModule18:
+  class: File
+  path: python/oesophageal-varices-sclerotherapy---secondary.py
+inputModule19:
+  class: File
+  path: python/endoscopic-oesophageal-varices---secondary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
